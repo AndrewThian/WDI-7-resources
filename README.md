@@ -77,6 +77,7 @@ I guess everyone is free to add some stuff in here! Just submit a pull request o
 * **Javascript** - Clean code javascript [github](https://github.com/ryanmcdermott/clean-code-javascript)
 * Ebook on git [git-tower](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction#start)
 * Ebooks [link](http://www.oreilly.com/free/reports.html)
+* Moar Ebooks [link](http://it-ebooks.directory/search.html?query=eloquent&in=title&page=1)
 * **Data structures** - all you need to know about data structures [link](https://github.com/thejameskyle/itsy-bitsy-data-structures/blob/master/itsy-bitsy-data-structures.js)
 * **CORS** - Cross browser origin stuff article [mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
 * **optimization** - front-end optimization article [link](https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/)
@@ -90,9 +91,9 @@ I guess everyone is free to add some stuff in here! Just submit a pull request o
 * **Javascript** - Refactoring clean code [link](https://refactoring.com/)
 * **Javascript** - Design patterns in javascript [link](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript)
 * **Code smells** - Thoughtworks code smells [link](https://sourcemaking.com/refactoring/smells)
-* **Code smells** - youtube stuff on code smells [youtube](https://www.youtube.com/watch?v=3cNR0PohDPM) [youtube](https://www.youtube.com/watch?v=U4hIpntxWYc) [youtube](https://www.youtube.com/watch?v=szOkSrZGmHU)
-[youtube](https://www.youtube.com/watch?v=n45-L8bp2cU)
-[youtube](https://www.youtube.com/watch?v=n45-L8bp2cU)
+* **Code smells** - youtube stuff on code smells [comments](https://www.youtube.com/watch?v=3cNR0PohDPM) [Long methods](https://www.youtube.com/watch?v=U4hIpntxWYc) [Long params](https://www.youtube.com/watch?v=szOkSrZGmHU)
+[Duplicate code](https://www.youtube.com/watch?v=n45-L8bp2cU)
+[Feature envy](https://www.youtube.com/watch?v=n45-L8bp2cU)
 * Zeigarnik effect help to learn code [link](https://medium.freecodecamp.com/can-the-zeigarnik-effect-help-you-learn-to-code-c64282ed0f7b#.nt2mokn8o)
 
 ## Node and mongoDB
@@ -103,6 +104,8 @@ I guess everyone is free to add some stuff in here! Just submit a pull request o
 
 ## Authentication
 * understanding passport [stackoverflow](http://stackoverflow.com/questions/27637609/understanding-passport-serialize-deserialize)
+* understanding passport youtube playlist [link]
+(https://www.youtube.com/watch?v=Z1ktxiqyiLA)
 
 ## ComScience stuff
 * Jeremiah's CS solutions for codility [github](https://github.com/jeremiahalex/js-cs-examples)
