@@ -57,6 +57,7 @@ I guess everyone is free to add some stuff in here! Just submit a pull request o
 * **relationships** - M:M relationships in rails [link](http://jeffthomas.xyz/many-to-many-relationships-in-rails)
 * **actionCable** - Action cable tutorial [link](https://www.nopio.com/blog/rails-chat-application-actioncable/)
 * **jQuery/AJAX** - stuff on rails tutorial [link](https://pragmaticstudio.com/blog/2015/3/18/rails-jquery-ajax)
+* **Tutorial** - ebook on ruby on rails 5 [link](https://www.railstutorial.org/book)
 
 ## UX stuff
 * UX myths [link](http://uxmyths.com/)
@@ -83,6 +84,7 @@ I guess everyone is free to add some stuff in here! Just submit a pull request o
 * **React** - converting to vanilla javascript and if it was worth it [link](https://hackernoon.com/how-i-converted-my-react-app-to-vanillajs-and-whether-or-not-it-was-a-terrible-idea-4b14b1b2faff#.88iqqf4wh)
 * **front-end** - gitbooks on everything front end! [link](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/)
 * **SEO** - beginners guide to SEO [link](https://moz.com/beginners-guide-to-seo)
+* **Ruby** - ebook 'The well-grounded rubist' [link](https://devnull.li/~jerojasro/twgr2e/The_Well-Grounded_Ru.pdf)
 
 ## Refactoring
 * **Javascript** - Refactoring clean code [link](https://refactoring.com/)
@@ -107,7 +109,7 @@ I guess everyone is free to add some stuff in here! Just submit a pull request o
 * Coursera comscience algorithums course [coursera](https://www.coursera.org/learn/algorithms-part1)
 
 ## Data structures
-* linked list and doubly linked lists [article](Data Structures With JavaScript: Singly-Linked List and Doubly-Linked List)
+* linked list and doubly linked lists [article](https://code.tutsplus.com/articles/data-structures-with-javascript-singly-linked-list-and-doubly-linked-list--cms-23392)
 * Database for the Fb/google/linkedin/twitter [link](https://www.quora.com/What-do-big-websites-like-Facebook-Google-Twitter-and-LinkedIn-use-for-their-database)
 * Pinterest database structure [link](http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html)
 
