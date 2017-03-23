@@ -1,16 +1,16 @@
-##Here's a list of resources for WDI7's chat
+## Here's a list of resources for WDI7's chat
 
-##Command Line stuff
+## Command Line stuff
 * Moving mulitple files in command line [askubuntu](http://askubuntu.com/questions/214560/how-to-move-multiple-files-at-once-to-a-specific-destination-directory#217067)
 
-##Text Editors (Sublime/Atom)
+## Text Editors (Sublime/Atom)
 * Emmet for sublime [github](sergeche/emmet-sublime)
 * Html Preview for Atom [package](https://atom.io/packages/atom-html-preview)
 
-##HTML
+## HTML
 * Html element choice [link](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)
 
-##CSS
+## CSS
 * CSS selectors [game](http://flukeout.github.io/)
 * CSS selecting [css-tricks](https://css-tricks.com/whats-the-difference/)
 * cool CSS art [link](http://a.singlediv.com/)
@@ -25,7 +25,7 @@
 * Colorzilla browser extension [link](http://www.colorzilla.com/)
 * Spritesheets in css [stackoverflow](http://stackoverflow.com/questions/18500801/resizing-background-sprite-image-to-fit-div)
 
-##Javascript *short articles*
+## Javascript *short articles*
 * Object methods [cheatsheet](https://www.cheatography.com/anas-95/cheat-sheets/javascript-object-methods/)
 * D3 javascript [library](https://d3js.org/)
 * Article on optimization in Javascript [link](http://archive.oreilly.com/pub/a/server-administration/excerpts/even-faster-websites/writing-efficient-javascript.html#the_fastest_conditionals)
@@ -45,32 +45,32 @@
 * **Promises** avoid callbacks with promises [link](https://derickbailey.com/2016/09/27/ending-the-nested-tree-of-doom-with-chained-promises/)
 * **callstacks, event loop, async** - youtube video on callstacks and stuff [youtube](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
-##Ruby stuff
+## Ruby stuff
 * Using XOR in ruby [link](http://www.ardendertat.com/2011/12/13/programming-interview-questions-22-find-odd-occurring-element/)
 * Bitwise operators explained [link](https://www.youtube.com/watch?v=JovNemG-iu8&feature=youtu.be&t=30m35s)
 
-##Rails
+## Rails
 * Rails code along [youtube](https://www.youtube.com/playlist?list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-)
 * **form_for** undefined user_path [stackoverflow](http://stackoverflow.com/questions/14740702/form-for-undefined-method-user-path)
 * **relationships** - M:M relationships in rails [link](http://jeffthomas.xyz/many-to-many-relationships-in-rails)
 * **actionCable** - Action cable tutorial [link](https://www.nopio.com/blog/rails-chat-application-actioncable/)
 * **jQuery/AJAX** - stuff on rails tutorial [link](https://pragmaticstudio.com/blog/2015/3/18/rails-jquery-ajax)
 
-##UX stuff
+## UX stuff
 * UX myths [link](http://uxmyths.com/)
 * UX project checklist [link](https://uxchecklist.github.io/)
 
-##Security stuff
+## Security stuff
 * security things article line of death [link](https://textslashplain.com/2017/01/14/the-line-of-death/)
 
-##Job hunting stuff
+## Job hunting stuff
 * Applying for jobs article [medium](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.rvub5wjkc)
 
-##TDD stuff
+## TDD stuff
 * Assert docs for Nodejs [link](https://nodejs.org/api/assert.html#assert_assert_strictequal_actual_expected_message)
 * supertest docs [link](https://visionmedia.github.io/superagent/)
 
-##Reading materials *longer reading time*
+## Reading materials *longer reading time*
 * **Javascript** - Clean code javascript [github](https://github.com/ryanmcdermott/clean-code-javascript)
 * Ebook on git [git-tower](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction#start)
 * Ebooks [link](http://www.oreilly.com/free/reports.html)
@@ -82,7 +82,7 @@
 * **front-end** - gitbooks on everything front end! [link](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/)
 * **SEO** - beginners guide to SEO [link](https://moz.com/beginners-guide-to-seo)
 
-##Refactoring
+## Refactoring
 * **Javascript** - Refactoring clean code [link](https://refactoring.com/)
 * **Javascript** - Design patterns in javascript [link](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript)
 * **Code smells** - Thoughtworks code smells [link](https://sourcemaking.com/refactoring/smells)
@@ -91,29 +91,29 @@
 [youtube](https://www.youtube.com/watch?v=n45-L8bp2cU)
 * Zeigarnik effect help to learn code [link](https://medium.freecodecamp.com/can-the-zeigarnik-effect-help-you-learn-to-code-c64282ed0f7b#.nt2mokn8o)
 
-##Node and mongoDB
+## Node and mongoDB
 * Create RESTful API tutorial [link](http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-nodejs-and-mongodb/)
 * tutorial on creating e-commerce site with nodejs [link](https://www.youtube.com/playlist?list=PL55RiY5tL51rajp7Xr_zk-fCFtzdlGKUp)
 * embedded or referencing in mongodb [stackoverflow](http://stackoverflow.com/a/21317378)
 * slides for embedded or referencing in mongodb [link](http://openmymind.net/Multiple-Collections-Versus-Embedded-Documents/#1)
 
-##Authentication
+## Authentication
 * understanding passport [stackoverflow](http://stackoverflow.com/questions/27637609/understanding-passport-serialize-deserialize)
 
-##ComScience stuff
+## ComScience stuff
 * Jeremiah's CS solutions for codility [github](https://github.com/jeremiahalex/js-cs-examples)
 * Coursera comscience algorithums course [coursera](https://www.coursera.org/learn/algorithms-part1)
 
-##Data structures
+## Data structures
 * linked list and doubly linked lists [article](Data Structures With JavaScript: Singly-Linked List and Doubly-Linked List)
 * Database for the Fb/google/linkedin/twitter [link](https://www.quora.com/What-do-big-websites-like-Facebook-Google-Twitter-and-LinkedIn-use-for-their-database)
 * Pinterest database structure [link](http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html)
 
-##cheat-sheets
+## cheat-sheets
 * Markdown cheatsheet [link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * Macbook commandline cheatsheet [link](https://github.com/0nn0/terminal-mac-cheatsheet)
 
-##Extra stuff
+## Extra stuff
 * David's parting gift [doc](https://docs.google.com/document/d/1oz19QcS7-tpGRSt6xnhu5OwwTvHq9lUpeUgZ_fVJjew/edit?usp=drivesdk)
 * Podcast for beginners [link](http://www.codenewbie.org/podcast)
 * Bootcamp article on [medium](https://medium.com/@harrisleow/nus-arts-student-to-full-stack-developer-in-12-weeks-939de77a1292#.lngbsxmgc)
