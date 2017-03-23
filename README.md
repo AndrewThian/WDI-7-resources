@@ -1,5 +1,7 @@
 ## Here's a list of resources for WDI7's chat
 
+I guess everyone is free to add some stuff in here! Just submit a pull request or I'll add you guys as collaborators!
+
 ## Command Line stuff
 * Moving mulitple files in command line [askubuntu](http://askubuntu.com/questions/214560/how-to-move-multiple-files-at-once-to-a-specific-destination-directory#217067)
 
