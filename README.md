@@ -4,6 +4,7 @@ I guess everyone is free to add some stuff in here! Just submit a pull request o
 
 ## Command Line stuff
 * Moving mulitple files in command line [askubuntu](http://askubuntu.com/questions/214560/how-to-move-multiple-files-at-once-to-a-specific-destination-directory#217067)
+* **Git** git tutorial in-depth [link]( http://gitimmersion.com/)
 
 ## Text Editors (Sublime/Atom)
 * Emmet for sublime [github](sergeche/emmet-sublime)
@@ -45,6 +46,7 @@ I guess everyone is free to add some stuff in here! Just submit a pull request o
 * **ES6** let vs const article [link](https://mathiasbynens.be/notes/es6-const)
 * Know it all checklist [link](https://know-it-all.io/)
 * **Promises** avoid callbacks with promises [link](https://derickbailey.com/2016/09/27/ending-the-nested-tree-of-doom-with-chained-promises/)
+* **Promises** - article about burger parties explaining promises [link](http://kosamari.com/notes/the-promise-of-a-burger-party)
 * **callstacks, event loop, async** - youtube video on callstacks and stuff [youtube](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 ## Ruby stuff
@@ -86,6 +88,9 @@ I guess everyone is free to add some stuff in here! Just submit a pull request o
 * **front-end** - gitbooks on everything front end! [link](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/)
 * **SEO** - beginners guide to SEO [link](https://moz.com/beginners-guide-to-seo)
 * **Ruby** - ebook 'The well-grounded rubist' [link](https://devnull.li/~jerojasro/twgr2e/The_Well-Grounded_Ru.pdf)
+* **Dev-tools** tutorial on development tools in chrome [link](http://discover-devtools.codeschool.com/)
+* **front-end debugging** front-end debugging tutorial [link](https://web.archive.org/web/20140101092752/http://jameslaicreative.com/debugging-javascript)
+* **OOP** a article about OOP and functional programming [link](http://www.codenewbie.org/blogs/object-oriented-programming-vs-functional-programming)
 
 ## Refactoring
 * **Javascript** - Refactoring clean code [link](https://refactoring.com/)
@@ -110,6 +115,7 @@ I guess everyone is free to add some stuff in here! Just submit a pull request o
 ## ComScience stuff
 * Jeremiah's CS solutions for codility [github](https://github.com/jeremiahalex/js-cs-examples)
 * Coursera comscience algorithums course [coursera](https://www.coursera.org/learn/algorithms-part1)
+* youtube about merge sort [youtube](https://www.youtube.com/watch?v=XaqR3G_NVoo)
 
 ## Data structures
 * linked list and doubly linked lists [article](https://code.tutsplus.com/articles/data-structures-with-javascript-singly-linked-list-and-doubly-linked-list--cms-23392)
@@ -119,6 +125,7 @@ I guess everyone is free to add some stuff in here! Just submit a pull request o
 ## cheat-sheets
 * Markdown cheatsheet [link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * Macbook commandline cheatsheet [link](https://github.com/0nn0/terminal-mac-cheatsheet)
+* **flex-box** cheatsheet [link](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
 
 ## Extra stuff
 * David's parting gift [doc](https://docs.google.com/document/d/1oz19QcS7-tpGRSt6xnhu5OwwTvHq9lUpeUgZ_fVJjew/edit?usp=drivesdk)
@@ -126,3 +133,4 @@ I guess everyone is free to add some stuff in here! Just submit a pull request o
 * Bootcamp article on [medium](https://medium.com/@harrisleow/nus-arts-student-to-full-stack-developer-in-12-weeks-939de77a1292#.lngbsxmgc)
 * Block chain stuff [link](https://anders.com/blockchain/)
 * google analytics setup reading material [link](https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/)
+* Creative coding [youtube](https://www.youtube.com/watch?v=LJS4fBjdPM4)
