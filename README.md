@@ -49,6 +49,10 @@ I guess everyone is free to add some stuff in here! Just submit a pull request o
 * **Promises** - article about burger parties explaining promises [link](http://kosamari.com/notes/the-promise-of-a-burger-party)
 * **callstacks, event loop, async** - youtube video on callstacks and stuff [youtube](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
+##Frameworks
+* **Vuejs** - vuejs with semantic ui in webpack! [link](https://forum.vuejs.org/t/how-to-use-semantic-ui-vuecli/424/3)
+* **Angular** - Tutorial for angularJS [link](https://angular.io/docs/ts/latest/tutorial/)
+
 ## Ruby stuff
 * Using XOR in ruby [link](http://www.ardendertat.com/2011/12/13/programming-interview-questions-22-find-odd-occurring-element/)
 * Bitwise operators explained [link](https://www.youtube.com/watch?v=JovNemG-iu8&feature=youtu.be&t=30m35s)
@@ -76,6 +80,7 @@ I guess everyone is free to add some stuff in here! Just submit a pull request o
 * supertest docs [link](https://visionmedia.github.io/superagent/)
 
 ## Reading materials *longer reading time*
+* **Javascript** - Javascript the weird parts [link](https://medium.com/@daffl/javascript-the-weird-parts-8ff3da55798e)
 * **Javascript** - Clean code javascript [github](https://github.com/ryanmcdermott/clean-code-javascript)
 * Ebook on git [git-tower](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction#start)
 * Ebooks [link](http://www.oreilly.com/free/reports.html)
