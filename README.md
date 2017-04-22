@@ -139,3 +139,4 @@ I guess everyone is free to add some stuff in here! Just submit a pull request o
 * Block chain stuff [link](https://anders.com/blockchain/)
 * google analytics setup reading material [link](https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/)
 * Creative coding [youtube](https://www.youtube.com/watch?v=LJS4fBjdPM4)
+* Python face scanning api! [link](https://github.com/ageitgey/face_recognition)
