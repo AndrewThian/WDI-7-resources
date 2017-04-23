@@ -98,6 +98,7 @@ I guess everyone is free to add some stuff in here! Just submit a pull request o
 * **Dev-tools** tutorial on development tools in chrome [link](http://discover-devtools.codeschool.com/)
 * **front-end debugging** front-end debugging tutorial [link](https://web.archive.org/web/20140101092752/http://jameslaicreative.com/debugging-javascript)
 * **OOP** a article about OOP and functional programming [link](http://www.codenewbie.org/blogs/object-oriented-programming-vs-functional-programming)
+* **OOP** article about OOP annalogies! [link](http://www.daedtech.com/visualization-mnemonics-for-software-principles/)
 
 ## Refactoring
 * **Javascript** - Refactoring clean code [link](https://refactoring.com/)
