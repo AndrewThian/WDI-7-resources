@@ -52,7 +52,7 @@ I guess everyone is free to add some stuff in here! Just submit a pull request o
 ## Frameworks
 * **VueJS** - vuejs with semantic ui in webpack! [link](https://forum.vuejs.org/t/how-to-use-semantic-ui-vuecli/424/3)
 * **VueJS** - vuejs 2 example project template (vuex, vue router and e2e testing) [link](https://github.com/prograhammer/example-vue-project)
-* **VueJS** - vuejs 2 tutorial for CRUD actions with vuex and vue router implementation.
+* **VueJS** - vuejs 2 tutorial for CRUD actions with vuex and vue router implementation. [link](https://jayway.github.io/vue-js-workshop/docs/async-api.html)
 * **Angular** - Tutorial for angularJS [link](https://angular.io/docs/ts/latest/tutorial/)
 
 ## Ruby stuff
