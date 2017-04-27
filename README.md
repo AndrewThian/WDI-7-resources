@@ -47,6 +47,7 @@ I guess everyone is free to add some stuff in here! Just submit a pull request o
 * Know it all checklist [link](https://know-it-all.io/)
 * **Promises** avoid callbacks with promises [link](https://derickbailey.com/2016/09/27/ending-the-nested-tree-of-doom-with-chained-promises/)
 * **Promises** - article about burger parties explaining promises [link](http://kosamari.com/notes/the-promise-of-a-burger-party)
+* **Promises** - google docs about web fundaments(esp promises) [link](https://developers.google.com/web/fundamentals/getting-started/primers/promises)
 * **callstacks, event loop, async** - youtube video on callstacks and stuff [youtube](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 ## Frameworks
