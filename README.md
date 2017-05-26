@@ -125,6 +125,7 @@ I guess everyone is free to add some stuff in here! Just submit a pull request o
 * Jeremiah's CS solutions for codility [github](https://github.com/jeremiahalex/js-cs-examples)
 * Coursera comscience algorithums course [coursera](https://www.coursera.org/learn/algorithms-part1)
 * youtube about merge sort [youtube](https://www.youtube.com/watch?v=XaqR3G_NVoo)
+* **Cheat sheet** - Big O notation [cheatsheet](http://bigocheatsheet.com/)
 
 ## Data structures
 * linked list and doubly linked lists [article](https://code.tutsplus.com/articles/data-structures-with-javascript-singly-linked-list-and-doubly-linked-list--cms-23392)
